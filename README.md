@@ -1,4 +1,8 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+```
+Name:Pavithra P
+Reg No:212223110035
+```
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
